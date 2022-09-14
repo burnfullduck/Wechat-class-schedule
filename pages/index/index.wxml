@@ -1,0 +1,4 @@
+<!--pages/index/index.wxml-->
+<button bindtap="toStudentPage" style="margin-top:16rpx">学生课表</button>
+<button bindtap="toClassPage" style="margin-top:16rpx">教室课表</button>
+<button bindtap="toTeacherPage" style="margin-top:16rpx">教师课表</button>

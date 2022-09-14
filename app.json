@@ -1,0 +1,20 @@
+{
+  "pages": [
+    "pages/login/login",
+    "pages/index/index",
+    "pages/classPage/classPage",
+    "pages/studentPage/studentPage",
+    "pages/teacherPage/teacherPage",
+    "pages/teacherCurriculum/teacherCurriculum",
+    "pages/classC/classC"
+  ],
+  "window": {
+    "backgroundColor": "#F6F6F6",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#F6F6F6",
+    "navigationBarTitleText": "南京大学课程表",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json",
+  "style": "v2"
+}

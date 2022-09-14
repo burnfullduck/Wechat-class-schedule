@@ -1,0 +1,6 @@
+/* pages/teacherPage/teacherPage.wxss */
+.teachername{
+  margin: 10px;
+  color:black;
+  background-color: lightsteelblue;
+}

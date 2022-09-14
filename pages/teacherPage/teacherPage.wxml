@@ -1,0 +1,3 @@
+<!--pages/teacherPage/teacherPage.wxml-->
+<l-input label="教师编号"  placeholder="请输入教师编号" bind:linblur="setTeacherName" />
+<l-button type="default" size="long" bindtap="toteacher">搜索</l-button>

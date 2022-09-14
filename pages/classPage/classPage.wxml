@@ -1,0 +1,3 @@
+<!--pages/classPage/classPage.wxml-->
+<l-input label="教室"  placeholder="例：仙一 107" bind:linblur="setClassName" />
+<l-button type="default" size="long" bindtap="toClass">搜索</l-button>
